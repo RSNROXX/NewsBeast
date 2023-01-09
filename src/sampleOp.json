@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Beau Dure, Tom Davies, Adam Collins, Emma Kemp",
+            "title": "Winter Olympics 2022 day five: speed skating and luge medals up for grabs – live! - The Guardian",
+            "description": "Live updates: Curling, luge, ice hockey and skeleton are all on the menu at the Beijing Games today. Join Adam Collins for the latest action",
+            "url": "https://www.theguardian.com/sport/live/2022/feb/08/winter-olympics-2022-day-five-mikaela-shiffrin-slalom-snowboard-cross-latest-updates",
+            "urlToImage": "https://i.guim.co.uk/img/media/9676f5e5f42dd07451ef619b8dfaff40ddf86ff7/0_206_3462_2076/master/3462.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f2527355605c1b83d36b3829958efa86",
+            "publishedAt": "2022-02-09T12:39:32Z",
+            "content": "12.54pm GMT12:54\r\n12.52pm GMT12:52\r\nSpeed skating: There will be ten racers on the ice for the 1500m final. Thats going to be total mayhem, about 30 minutes from now.\r\n12.51pm GMT12:51\r\nSpeed skating… [+11388 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Greg Joyce",
+            "title": "Shaun White avoids Olympic disaster with big second run in men's halfpipe - New York Post ",
+            "description": "Shaun White’s swan song got off to a dicey start, but it will last two more days with a chance for one last medal. The three-time Olympic gold medalist had to sweat it out in the men’s halfpipe qua…",
+            "url": "https://nypost.com/2022/02/09/shaun-white-avoids-olympic-disaster-with-big-second-run-in-mens-halfpipe/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/02/Shaun-White-2-2.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-02-09T12:09:00Z",
+            "content": "Shaun Whites swan song got off to a dicey start, but it will last two more days with a chance for one last medal.\r\nThe three-time Olympic gold medalist had to sweat it out in the mens halfpipe qualif… [+1734 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Timothy Nerozzi",
+            "title": "Alleged sex traffickers, rapists, antisemites remain on Spotify without issue while Rogan faces boycott calls - Fox Business",
+            "description": "Cosby, R. Kelly, Gary Glitter and others remain on Spotify without complaint",
+            "url": "https://www.foxbusiness.com/entertainment/joe-rogan-spotify-sex-traffickers-rapists-antisemites",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/02/0/0/Rogan-Kelly-Farrakhan.jpg?ve=1&tl=1",
+            "publishedAt": "2022-02-09T11:22:00Z",
+            "content": "A social media mob continues to encircle podcast host Joe Rogan as business leaders, lawmakers and even the White House have made public calls for Spotify to censor Rogan. \r\nBut while Rogan is target… [+5724 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kate Duffy",
+            "title": "Elon Musk's SpaceX lost 40 Starlink satellites to a solar storm - Business Insider",
+            "description": "SpaceX said 80% of the satellites it launched Thursday are expected to burn up in the Earth's atmosphere instead of reaching orbit.",
+            "url": "https://www.businessinsider.com/spacex-lost-starlink-satellites-orbit-geomagnetic-solar-storm-space-launch-2022-2",
+            "urlToImage": "https://i.insider.com/6203959f019b02001851e670?width=1200&format=jpeg",
+            "publishedAt": "2022-02-09T11:15:30Z",
+            "content": "Elon Musk's SpaceX said it has lost up to 40 Starlink satellites that it launched into orbit last week because of a geomagnetic storm.\r\nThe aerospace company sent 49 Starlink satellites into low Eart… [+1548 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eric Levenson, Amir Vera and Jason Hanna, CNN",
+            "title": "New York governor plans to end the state's indoor mask mandate for businesses, NYT reports - CNN",
+            "description": "The governors of New York and Illinois are expected to announce the end of -- or a plan to end -- certain Covid-19 mitigation requirements involving masks on Wednesday, media reports say.",
+            "url": "https://www.cnn.com/2022/02/08/us/new-york-mask-mandate-vaccine-announcement/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220208171946-hochul-virtual-teacher-meetings-super-tease.jpg",
+            "publishedAt": "2022-02-09T10:52:00Z",
+            "content": "(CNN)The governors of New York and Illinois are expected to announce the end of -- or a plan to roll back -- certain Covid-19 mitigation requirements involving masks on Wednesday, media reports say.\r… [+6068 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "John Branch",
+            "title": "Olympics 2022: Live Medal Count, Snowboarding and Skiing Updates - The New York Times",
+            "description": "The medals ceremony for team figure skating is postponed on short notice amid a legal inquiry. Shaun White and Chloe Kim qualify for the halfpipe finals, but Mikaela Shiffrin skis off the course in the slalom.",
+            "url": "https://www.nytimes.com/live/2022/02/08/sports/olympics-medals-winter",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/09/world/09olympics-briefing-header-10/09olympics-briefing-header-10-facebookJumbo.jpg",
+            "publishedAt": "2022-02-09T10:36:23Z",
+            "content": "Mikaela Shiffrin was disqualified from her second consecutive race at the Beijing Olympics.Credit...Robert F. Bukaty/Associated Press\r\nWhen Mikaela Shiffrin, a two-time Olympic champion and ski racin… [+5356 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Topher Gauk-Roger and Aya Elamroussi, CNN",
+            "title": "University of California system reaches $243.6 million settlement after former UCLA gynecologist is accused of sexual misconduct - CNN",
+            "description": "The University of California system has reached a $243.6 million settlement with more than two hundred people who allege they were sexually abused by former UCLA obstetrician-gynecologist Dr. James Heaps, according to a statement Tuesday from university offic…",
+            "url": "https://www.cnn.com/2022/02/09/us/university-of-california-system-settlement-ucla-gynecologist-james-heaps/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220209003755-02-ucla-lawsuit-james-heaps-file-08032020-restricted-super-tease.jpg",
+            "publishedAt": "2022-02-09T10:04:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "James Rogerson",
+            "title": "Samsung Galaxy S22 live stream: how to watch the Samsung Unpacked launch - TechRadar",
+            "description": "Samsung's big launch is happening soon",
+            "url": "https://www.techradar.com/how-to/samsung-unpacked-live-stream",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/4rBhyZwLFtJ9HP3PUPTTDU-1200-80.jpg",
+            "publishedAt": "2022-02-09T09:04:56Z",
+            "content": "There’s big news coming from Samsung, as the company is set to announce the Samsung Galaxy S22 range (including the Samsung Galaxy S22 Plus and Samsung Galaxy S22 Ultra) later today (February 9), and… [+1247 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Roger Cohen",
+            "title": "Europe Calls for Peace, but Not at Any Price - The New York Times",
+            "description": "Two days of intense diplomacy on both sides of the Atlantic leave the standoff over Ukraine with Russia frozen in place.",
+            "url": "https://www.nytimes.com/2022/02/08/world/europe/ukraine-russia-macron-scholz-duda-putin-biden.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/08/world/08ukraine-1/08ukraine-1-facebookJumbo.jpg",
+            "publishedAt": "2022-02-09T09:03:00Z",
+            "content": "Mr. Macron began the day in Moscow after a meeting on Monday with President Vladimir V. Putin, and he met President Volodymyr Zelensky of Ukraine in Kyiv earlier Tuesday. We want to continue the dial… [+1311 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "'Friday' Star Anthony Johnson Died from Longtime Drinking - TMZ",
+            "description": "Johnson was most famous for playing Ezal in 'Friday.'",
+            "url": "https://www.tmz.com/2022/02/09/friday-anthony-johnson-cause-of-death-alcohol/",
+            "urlToImage": "https://imagez.tmz.com/image/c5/16by9/2022/02/08/c53e4584b7ce4af29f148de0f7f4c1fd_xl.jpg",
+            "publishedAt": "2022-02-09T08:40:00Z",
+            "content": "Anthony Johnson died from years of hard drinking ... according to the medical examiner, and it's something his wife wanted people to know.\r\nHis autopsy report, obtained by TMZ, cites \"chronic ethanol… [+1441 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Ken Martin",
+            "title": "Stock futures add to previous day's gains - Fox Business",
+            "description": "U.S. equity futures were poised to add to gains Wednesday morning after Wall Street rebounded as investors waited for U.S. inflation data that might influence the pace of Federal Reserve interest rate hikes.",
+            "url": "https://www.foxbusiness.com/markets/stock-futures-2-9-2022",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/03/0/0/nyse-trader-03292018.jpg?ve=1&tl=1",
+            "publishedAt": "2022-02-09T08:24:38Z",
+            "content": "U.S. equity futures were poised to add to gains Wednesday morning after Wall Street rebounded as investors waited for U.S. inflation data that might influence the pace of Federal Reserve interest rat… [+3112 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "European, U.S. regulators tell banks to prepare for Russian cyberattack threat - Reuters",
+            "description": "The European Central Bank is preparing banks for a possible Russian-sponsored cyber attack as tensions with Ukraine mount, two people with knowledge of the matter said, as the region braces for the financial fallout of any conflict.",
+            "url": "https://www.reuters.com/markets/europe/european-us-regulators-tell-banks-prepare-russian-cyberattack-threat-2022-02-09/",
+            "urlToImage": "https://www.reuters.com/resizer/sJbimHyOt73b9EailEZ6f_rO0kk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KGUCQVWIQRJYJFVTBBP4EHBWYQ.jpg",
+            "publishedAt": "2022-02-09T08:01:00Z",
+            "content": "FRANKFURT/LONDON, Feb 9 (Reuters) - The European Central Bank is preparing banks for a possible Russian-sponsored cyber attack as tensions with Ukraine mount, two people with knowledge of the matter … [+3890 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Senate's McConnell pushes back against Republican Party censure of Trump critics - Reuters",
+            "description": "Top U.S. Senate Republican Mitch McConnell on Tuesday criticized his party's censure of two prominent Republican critics of Donald Trump, joining an intra-party battle that could upend his efforts to project an image of party moderation in this year's midterm…",
+            "url": "https://www.reuters.com/world/us/republican-infighting-rattles-mcconnells-us-midterm-elections-strategy-2022-02-08/",
+            "urlToImage": "https://www.reuters.com/resizer/6t7d8chMK6WVpO3h2PYb9zUUfSc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UBXUKRVGHZMFRIOZNIZSWXXOKE.jpg",
+            "publishedAt": "2022-02-09T07:47:00Z",
+            "content": "WASHINGTON, Feb 8 (Reuters) - Top U.S. Senate Republican Mitch McConnell on Tuesday criticized his party's censure of two prominent Republican critics of Donald Trump, joining an intra-party battle t… [+4508 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indianapolis Star"
+            },
+            "author": "James Boyd, The Indianapolis Star",
+            "title": "'I called Domas first': Pacers trade Sabonis, Justin Holiday, Jeremy Lamb to Kings - IndyStar",
+            "description": "This is Indiana's second trade this week, signifying that owner Herb Simon is ready to commit to a full rebuild.",
+            "url": "https://www.indystar.com/story/sports/nba/pacers/2022/02/08/pacers-trade-domantas-sabonis-justin-holiday-jeremy-lamb-kings/6706738001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/12/28/PIND/02ef52c0-1be7-4d17-a844-dec79fbe3cb1-DSC-2915.jpg?auto=webp&crop=1619,911,x0,y85&format=pjpg&width=1200",
+            "publishedAt": "2022-02-09T04:48:59Z",
+            "content": "ATLANTA — Star center Domantas Sabonis, swingman Justin Holiday and reserve guard Jeremy Lamb made the trip to Atlanta for the Pacers' road game Tuesday against the Hawks, but they did not suit up fo… [+4274 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ANTHONY IZAGUIRRE Associated Press",
+            "title": "Florida's top doctor refuses to say if he's vaccinated - ABC News",
+            "description": "",
+            "url": "https://abcnews.go.com/Health/wireStory/floridas-top-doctor-refuses-vaccinated-82761830",
+            "urlToImage": "https://s.abcnews.com/images/Health/WireAP_33a5e23cfc7546b2ab43e87c54b90ab3_16x9_992.jpg",
+            "publishedAt": "2022-02-09T03:40:27Z",
+            "content": "TALLAHASSEE, Fla. -- Florida Surgeon General Dr. Joseph Ladapo on Tuesday declined to disclose whether he has received a coronavirus vaccine during a contentious confirmation hearing where Democrats … [+2349 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Erin Snodgrass",
+            "title": "Joe Biden slams Florida 'Don't Say Gay' bill following DeSantis support - Business Insider",
+            "description": "GOP lawmakers in Florida on Tuesday advanced legislation that would ban the discussion of sexual orientation and gender identity in schools.",
+            "url": "https://www.businessinsider.com/joe-biden-slams-florida-dont-say-gay-bill-desantis-support-2022-2",
+            "urlToImage": "https://i.insider.com/61da590b276e8200193846b8?width=1200&format=jpeg",
+            "publishedAt": "2022-02-09T03:20:17Z",
+            "content": "President Joe Biden on Tuesday offered support to LGBTQ students while speaking out against a Florida bill that would ban the discussion of sexual orientation and gender identity in the state's publi… [+2932 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Massive Sponge Gardens Discovered on the Peaks of Extinct Underwater Volcanoes in the Arctic Deep Sea - SciTechDaily",
+            "description": "Sponges grow in large numbers and to impressive size on the peaks of extinct underwater volcanoes. Massive sponge gardens thrive on top of seamounts in the Central Arctic Ocean, one of the most oligotrophic seas on Earth. They appear to feed on the remnants o…",
+            "url": "https://scitechdaily.com/massive-sponge-gardens-discovered-on-the-peaks-of-extinct-underwater-volcanoes-in-the-arctic-deep-sea/",
+            "urlToImage": "https://scitechdaily.com/images/Arctic-Seafloor-Sponges-scaled.jpg",
+            "publishedAt": "2022-02-09T03:04:20Z",
+            "content": "The dense sponge grounds discovered on the northerly Langseth Ridge seamount structure represent an astonishingly rich ecosystem, demonstrating the ability of sponges and associated microorganisms to… [+7250 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Dustin Volz, Ian Talley",
+            "title": "Justice Department Says It Seized $3.6 Billion Worth of Bitcoin Stolen in 2016 Hack - The Wall Street Journal",
+            "description": "The value of the bitcoin at the time it was seized last week marks the department’s largest-ever financial seizure",
+            "url": "https://www.wsj.com/articles/justice-department-says-it-seized-3-6-billion-in-stolen-cryptocurrency-exchange-hack-11644339381",
+            "urlToImage": "https://images.wsj.net/im-482050/social",
+            "publishedAt": "2022-02-09T02:21:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": null,
+            "title": "Report: Material You dynamic colors required for Android 12 - 9to5Google",
+            "description": "Google may be requiring makers of phones & tablets on Android 12 to include a dynamic color system like used for Material You on Pixels.",
+            "url": "https://9to5google.com/2022/02/08/report-android-12-material-you-dynamic-colors-requirement/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/11/google_pixel_6_pro_material_you_1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-02-09T01:58:00Z",
+            "content": "According to a new report, Google may be requiring makers of phones and tablets on Android 12 to include a dynamic color system like used for Material You on Pixel phones.\r\nIn addition to the broad r… [+3058 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Praise for Eileen Gu breaks Chinese social media - Fox News",
+            "description": "Two American-born athletes competing for China. Two radically different reactions from Chinese social media to their performances at the Winter Olympics.",
+            "url": "https://www.foxnews.com/sports/praise-for-eileen-gu-breaks-chinese-social-media",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/02/AP22039455717463.jpg",
+            "publishedAt": "2022-02-09T01:56:21Z",
+            "content": "Two American-born athletes competing for China. Two radically different reactions from Chinese social media to their performances at the Winter Olympics.\r\nAs freestyle skier Eileen Gu won her gold me… [+3332 chars]"
+        }
+    ]
+}
